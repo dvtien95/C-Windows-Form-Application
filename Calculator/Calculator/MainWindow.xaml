@@ -1,0 +1,34 @@
+﻿<Window x:Class="Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="411.591" Width="397.416">
+    <Grid x:Name="MainWindow1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30*"></ColumnDefinition>
+            <ColumnDefinition Width="0*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="button7" Content="7" HorizontalAlignment="Stretch" Margin="10,92,296,204" VerticalAlignment="Stretch" Width="66" Height="59" FontWeight="Bold" FontSize="26.667" Click="button7_Click"/>
+        <TextBox x:Name="DisplayCalculation" HorizontalAlignment="Stretch" TextAlignment="Right" Height="36" Margin="10,10,12,309" TextWrapping="Wrap" VerticalAlignment="Stretch" Width="350" FontSize="13.333"/>
+        <Button x:Name="button8" Content="8" HorizontalAlignment="Stretch" Margin="81,92,225,204" VerticalAlignment="Stretch" Width="66" Height="59" FontWeight="Bold" FontSize="26.667" Click="button8_Click"/>
+        <Button x:Name="button1" Content="1" HorizontalAlignment="Stretch" Margin="10,220,296,76" VerticalAlignment="Stretch" Width="66" Height="59" FontWeight="Bold" FontSize="26.667" Click="button1_Click"/>
+        <Button x:Name="button4" Content="4" HorizontalAlignment="Stretch" Margin="10,156,296,140" VerticalAlignment="Stretch" Width="66" Height="59" FontWeight="Bold" FontSize="26.667" Click="button4_Click"/>
+        <Button x:Name="button5" Content="5" HorizontalAlignment="Stretch" Margin="81,156,225,140" VerticalAlignment="Stretch" Width="66" Height="59" FontWeight="Bold" FontSize="26.667" Click="button5_Click"/>
+        <Button x:Name="button2" Content="2" HorizontalAlignment="Stretch" Margin="81,220,225,76" VerticalAlignment="Stretch" Width="66" Height="59" FontWeight="Bold" FontSize="26.667" Click="button2_Click"/>
+        <Button x:Name="button3" Content="3" HorizontalAlignment="Stretch" Margin="152,220,154,76" VerticalAlignment="Stretch" Width="66" Height="59" FontWeight="Bold" FontSize="26.667" Click="button3_Click"/>
+        <Button x:Name="button6" Content="6" HorizontalAlignment="Stretch" Margin="152,156,154,140" VerticalAlignment="Stretch" Width="66" Height="59" FontWeight="Bold" FontSize="26.667" Click="button6_Click"/>
+        <Button x:Name="button9" Content="9" HorizontalAlignment="Stretch" Margin="152,92,154,204" VerticalAlignment="Stretch" Width="66" Height="59" FontWeight="Bold" FontSize="26.667" Click="button9_Click"/>
+        <Button x:Name="Multiply" Content="*" HorizontalAlignment="Stretch" Margin="223,92,83,204" VerticalAlignment="Stretch" Width="66" Height="59" FontWeight="Bold" FontSize="26.667" Click="Multiply_Click_1"/>
+        <Button x:Name="Divide" Content="/" HorizontalAlignment="Stretch" Margin="294,92,12,204" VerticalAlignment="Stretch" Width="66" Height="59" FontWeight="Bold" FontSize="26.667" Click="Divide_Click_1"/>
+        <Button x:Name="Add" Content="+" HorizontalAlignment="Stretch" Margin="223,156,83,140" VerticalAlignment="Stretch" Width="66" Height="59" FontWeight="Bold" FontSize="26.667" Click="Add_Click_1"/>
+        <Button x:Name="Subtract" Content="-" HorizontalAlignment="Stretch" Margin="294,156,12,140" VerticalAlignment="Stretch" Width="66" Height="59" FontWeight="Bold" FontSize="26.667" Click="Subtract_Click_1"/>
+        <Button x:Name="buttonClear" Content="CE" HorizontalAlignment="Stretch" Margin="294,220,12,76" VerticalAlignment="Stretch" Width="66" Height="59" FontWeight="Bold" FontSize="26.667" Click="buttonClear_Click_1"/>
+        <Button x:Name="Equal" Content="=" HorizontalAlignment="Stretch" Margin="10,284,12,12" VerticalAlignment="Stretch" Width="350" Height="59" FontWeight="Bold" FontSize="26.667" Click="Equal_Click_1"/>
+        <TextBox x:Name="DisplayResult" HorizontalAlignment="Stretch" TextAlignment="Right" Height="36" Margin="10,51,12,268" TextWrapping="Wrap" VerticalAlignment="Stretch" Width="350" FontSize="18.667" FontWeight="Bold"/>
+        <Button x:Name="button0" Content="0" HorizontalAlignment="Stretch" Margin="223,220,83,76" VerticalAlignment="Stretch" Width="66" Height="59" FontWeight="Bold" FontSize="26.667" Click="button0_Click_1"/>
+
+    </Grid>
+</Window>
