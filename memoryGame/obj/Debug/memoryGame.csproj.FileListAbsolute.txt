@@ -1,0 +1,19 @@
+C:\Users\tvd2f\Desktop\memoryGame\memoryGame\bin\Debug\memoryGame.exe.config
+C:\Users\tvd2f\Desktop\memoryGame\memoryGame\obj\Debug\memoryGame.Form1.resources
+C:\Users\tvd2f\Desktop\memoryGame\memoryGame\obj\Debug\memoryGame.Properties.Resources.resources
+C:\Users\tvd2f\Desktop\memoryGame\memoryGame\obj\Debug\memoryGame.csproj.GenerateResource.Cache
+C:\Users\tvd2f\Desktop\memoryGame\memoryGame\bin\Debug\memoryGame.exe
+C:\Users\tvd2f\Desktop\memoryGame\memoryGame\bin\Debug\memoryGame.pdb
+C:\Users\tvd2f\Desktop\memoryGame\memoryGame\obj\Debug\memoryGame.exe
+C:\Users\tvd2f\Desktop\memoryGame\memoryGame\obj\Debug\memoryGame.pdb
+C:\Users\tvd2f\Desktop\CSCI3037\Dinh-hwkVisualStudio\memoryGame\bin\Debug\memoryGame.exe.config
+C:\Users\tvd2f\Desktop\CSCI3037\Dinh-hwkVisualStudio\memoryGame\obj\Debug\memoryGame.exe
+C:\Users\tvd2f\Desktop\CSCI3037\Dinh-hwkVisualStudio\memoryGame\obj\Debug\memoryGame.pdb
+C:\Users\tvd2f\Desktop\CSCI3037\Dinh-hwkVisualStudio\memoryGame\bin\Debug\memoryGame.exe
+C:\Users\tvd2f\Desktop\CSCI3037\Dinh-hwkVisualStudio\memoryGame\bin\Debug\memoryGame.pdb
+C:\Users\tvd2f\Desktop\CSCI3037\Dinh-hwkVisualStudio\memoryGame\obj\Debug\memoryGame.Form1.resources
+C:\Users\tvd2f\Desktop\CSCI3037\Dinh-hwkVisualStudio\memoryGame\obj\Debug\memoryGame.Properties.Resources.resources
+C:\Users\tvd2f\Desktop\CSCI3037\Dinh-hwkVisualStudio\memoryGame\obj\Debug\memoryGame.csproj.GenerateResource.Cache
+C:\Users\tvd2f\Desktop\CSCI3037\Memory Game\Dinh-hwkVisualStudio\memoryGame\bin\Debug\memoryGame.exe.config
+C:\Users\tvd2f\Desktop\CSCI3037\Memory Game\Dinh-hwkVisualStudio\memoryGame\obj\Debug\memoryGame.exe
+C:\Users\tvd2f\Desktop\CSCI3037\Memory Game\Dinh-hwkVisualStudio\memoryGame\obj\Debug\memoryGame.pdb
